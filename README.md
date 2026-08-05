@@ -67,7 +67,7 @@ El sistema centraliza la información del proyecto, automatiza procesos administ
 
 ## Dashboard Principal
 
-![](images/Módulos%20del%20Sistema.jpg)
+![](images/DashBoard_Principal.jpg)
 
 ---
 
