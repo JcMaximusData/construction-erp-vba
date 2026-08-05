@@ -35,7 +35,7 @@ El sistema centraliza la información del proyecto, automatiza procesos administ
 
 # 📷 Capturas
 
-## Dashboard Principal
+## Pagina Principal
 
 ![](images/Gestion_Compras_Principal.jpg)
 
@@ -60,6 +60,12 @@ El sistema centraliza la información del proyecto, automatiza procesos administ
 ---
 
 ## Módulos del Sistema
+
+![](images/Módulos%20del%20Sistema.jpg)
+
+---
+
+## Dashboard Principal
 
 ![](images/Módulos%20del%20Sistema.jpg)
 
